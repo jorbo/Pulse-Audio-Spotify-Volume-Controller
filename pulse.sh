@@ -1,0 +1,1 @@
+/home/jordan/.scripts/pulse.sh
