@@ -2,9 +2,9 @@
 
 Really simple script that allows you to change the volume of Spotify via PulseAudio. This is a workaround for being unable to control Spotify via mpris(playerctl) because they suck.
 
-I currently have this script bound to an i3 keybind.
-`bindsym $mod+minus exec pulse.sh lower`
-`bindsym $mod+plus exec pulse.sh raise`
+I currently have this script bound to an i3 keybind:  
+`bindsym $mod+minus exec pulse.sh lower`  
+`bindsym $mod+plus exec pulse.sh raise`  
 
 
 ## How to use
